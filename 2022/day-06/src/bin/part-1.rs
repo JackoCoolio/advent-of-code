@@ -1,5 +1,3 @@
-use std::collections::{hash_map::RandomState, HashSet};
-
 use day_06::{find_first_n_unique, load_file};
 
 fn main() {
